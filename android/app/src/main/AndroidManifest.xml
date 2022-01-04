@@ -5,6 +5,7 @@
    <application
         android:label="graet_places"
         android:icon="@mipmap/ic_launcher">
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyD0xFJvJK3UV89c7tdNkr5qj_-yinQ5RqA"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
